@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s60w+bVKZVQMuPBDlNp5ndiVaRoqJsIXKaHgnI7SKH12hi6AnDoayBQ3bAcxB50SbGs1DMEu8VoyfrU7+hroaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\Proyecto ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
